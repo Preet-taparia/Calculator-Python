@@ -28,7 +28,6 @@ The calculator includes the following buttons:
 - Arithmetic Operators (+, -, *, /, %)
 - Special Operations (Square Root)
 - Decimal Point (.)
-- Clear Entry (CE)
 - Clear All (AC)
 - Backspace (⌫)
 - Equals (=)
@@ -37,13 +36,12 @@ The calculator includes the following buttons:
 
 - **Number Input:** Enter numbers and decimal points using the respective buttons.
 - **Arithmetic Operations:** Perform addition, subtraction, multiplication, and division.
-- **Clear Entry (CE):** Clears the current entry.
 - **Clear All (AC):** Clears the entire expression and result.
 
 ### Advanced Operations
 
 - **Square Root (√):** Calculates the square root of the entered value.
-- **Percentage (%):** Computes the percentage of the entered value.
+- **Remainder (%):** Computes the Remainder of the entered value.
 
 ### History
 
