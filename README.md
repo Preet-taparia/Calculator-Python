@@ -4,11 +4,11 @@ A simple calculator application built using Python's Tkinter library.
 
 ![Calculator Interface](<Pics/pic1.png>)
 
-| <center> Calculator Interface </center>
+<center> Calculator Interface </center>
 
 ![Calculator Functionality](<Pics/pic2.png>)
 
-| <center> Calculator Functionality </center>
+<center> Calculator Functionality </center>
 
 ## Functionality
 
